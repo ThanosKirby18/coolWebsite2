@@ -1,0 +1,115 @@
+
+#gamer{
+    color:black;
+        background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpKibuE71mJvEa4hHdqZsK0VdQJ2nT0A5viw&usqp=CAU);/*   reddit */
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+}
+body {
+   color:black;
+        background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-wouRR-34OcIzuYwQT02OGXPB9cA_Vd2qw&usqp=CAU); /*  from topping.org*/
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+}
+#letterBod {
+  border: 0px solid transparent;
+  padding: 0px;
+  box-shadow: 0px 0px;
+}
+
+
+ol{
+      list-style-type:square;
+      width:350px;
+      background-color:pink;
+      list-style-position:inside;
+      border:1px solid black;
+      padding: 10px;
+      box-shadow: 5px 10px;
+      
+}
+dl{
+  background-color: #c77722;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 2.5px 5px;
+}
+letter{
+  background-color: #c77722;
+}
+table, th, td {
+  border:1px solid black;
+  background-color: #c77722;
+}
+
+
+h1{
+    border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+  font-size: 25px;
+
+  background-color: #c77722;
+}
+p{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+  font-family: 'Fira Sans', sans-serif;
+}
+a {
+  font-style: italic;
+  font-weight: bold;
+}
+mark{
+  background-color: crimson;
+}
+   
+h2{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+  font-size: 25px;
+  font-family: 'Fira Sans', sans-serif;
+   background-color: pink;
+}
+p{
+background-color: #c77722;
+font-weight: bold;
+}
+
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+header, footer{
+    text-align:center;
+    background-color:green;
+    margin:0px 40px 10px 10px;
+}
+/* CSS */
+
+.sidebar {
+height: 200px;
+width: 150px;
+position: fixed;
+top: 0;
+left: 0;
+padding-top: 40px;
+background-color: transparent;
+}
+
+.sidebar div {
+padding: 8px;
+font-size: 24px;
+display: block;
+}
+
+.body-text {
+margin-left: 150px;
+font-size: 18px;
+}
